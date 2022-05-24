@@ -7,9 +7,12 @@ For this project, I have created an application you can start through the comman
 
 
 ## Installation
+```
 
--- npm install
--- npm run start
+npm install 
+npm run start
+
+```
 
 
 ## Link to GitHub repository
